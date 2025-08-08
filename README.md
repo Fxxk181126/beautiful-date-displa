@@ -1,1 +1,26 @@
-# beautiful-date-displa
+# Deautiful Date Display 优雅日期查看器
+
+一个简洁美观的日期显示工具，支持自定义日期设置。
+
+## ✨ 特性
+
+- 🎨 优雅简洁的界面设计
+- 📱 完美支持手机和电脑
+- ⚙️ 可自定义年月日
+- 🚀 纯HTML，无需安装
+- 💫 大字体清晰显示
+
+## 🌐 在线预览
+
+[点击这里查看在线版本](https://你的用户名.github.io/elegant-date-viewer/elegant-date-viewer.html)
+
+## 🛠️ 使用方法
+
+1. 打开网页
+2. 在顶部输入框中设置年、月、日
+3. 点击"更新日期"按钮
+4. 享受大字体的日期显示效果
+
+## 📄 许可证
+
+MIT License
